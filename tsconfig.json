@@ -1,7 +1,0 @@
-{
-    "files": ["src/index.ts"],      // the entry point for all the ts codes
-    "compilerOptions": {
-      "noImplicitAny": true,
-      "target": "es5"
-    }
-  }
